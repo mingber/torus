@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/torus/static/css/main.dfca195d.chunk.css",
+    "main.js": "/torus/static/js/main.e80fbbc1.chunk.js",
+    "main.js.map": "/torus/static/js/main.e80fbbc1.chunk.js.map",
+    "runtime-main.js": "/torus/static/js/runtime-main.1f0e9ca9.js",
+    "runtime-main.js.map": "/torus/static/js/runtime-main.1f0e9ca9.js.map",
+    "static/js/2.fced043c.chunk.js": "/torus/static/js/2.fced043c.chunk.js",
+    "static/js/2.fced043c.chunk.js.map": "/torus/static/js/2.fced043c.chunk.js.map",
+    "index.html": "/torus/index.html",
+    "precache-manifest.f7d411b591c3023621660305cafbdc81.js": "/torus/precache-manifest.f7d411b591c3023621660305cafbdc81.js",
+    "service-worker.js": "/torus/service-worker.js",
+    "static/css/main.dfca195d.chunk.css.map": "/torus/static/css/main.dfca195d.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f0e9ca9.js",
+    "static/js/2.fced043c.chunk.js",
+    "static/css/main.dfca195d.chunk.css",
+    "static/js/main.e80fbbc1.chunk.js"
+  ]
+}
