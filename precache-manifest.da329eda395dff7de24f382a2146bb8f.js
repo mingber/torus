@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "57d15888294961efc10780c308359527",
+    "revision": "479e80480a1e0b19f2e873694aa48d48",
     "url": "/torus/index.html"
   },
   {
-    "revision": "c98136204e2f45935a47",
+    "revision": "5a7756405ff5ba46573f",
     "url": "/torus/static/css/main.dfca195d.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/torus/static/js/2.cb70ba58.chunk.js"
   },
   {
-    "revision": "c98136204e2f45935a47",
-    "url": "/torus/static/js/main.5cb0b1bc.chunk.js"
+    "revision": "5a7756405ff5ba46573f",
+    "url": "/torus/static/js/main.2057de31.chunk.js"
   },
   {
     "revision": "ffdb630bbecec7f39105",
