@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/torus/static/css/main.dfca195d.chunk.css",
-    "main.js": "/torus/static/js/main.2057de31.chunk.js",
-    "main.js.map": "/torus/static/js/main.2057de31.chunk.js.map",
+    "main.js": "/torus/static/js/main.9f862135.chunk.js",
+    "main.js.map": "/torus/static/js/main.9f862135.chunk.js.map",
     "runtime-main.js": "/torus/static/js/runtime-main.1f0e9ca9.js",
     "runtime-main.js.map": "/torus/static/js/runtime-main.1f0e9ca9.js.map",
-    "static/js/2.cb70ba58.chunk.js": "/torus/static/js/2.cb70ba58.chunk.js",
-    "static/js/2.cb70ba58.chunk.js.map": "/torus/static/js/2.cb70ba58.chunk.js.map",
+    "static/js/2.7e54506c.chunk.js": "/torus/static/js/2.7e54506c.chunk.js",
+    "static/js/2.7e54506c.chunk.js.map": "/torus/static/js/2.7e54506c.chunk.js.map",
     "index.html": "/torus/index.html",
-    "precache-manifest.da329eda395dff7de24f382a2146bb8f.js": "/torus/precache-manifest.da329eda395dff7de24f382a2146bb8f.js",
+    "precache-manifest.967b90d457c36db8ea807956f89fb42c.js": "/torus/precache-manifest.967b90d457c36db8ea807956f89fb42c.js",
     "service-worker.js": "/torus/service-worker.js",
     "static/css/main.dfca195d.chunk.css.map": "/torus/static/css/main.dfca195d.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.1f0e9ca9.js",
-    "static/js/2.cb70ba58.chunk.js",
+    "static/js/2.7e54506c.chunk.js",
     "static/css/main.dfca195d.chunk.css",
-    "static/js/main.2057de31.chunk.js"
+    "static/js/main.9f862135.chunk.js"
   ]
 }
